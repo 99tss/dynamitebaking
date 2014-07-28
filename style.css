@@ -1,0 +1,72 @@
+body {
+    font-family:'Englebert', cursive;
+	}
+
+h1 {
+    font-size:6em;
+	text-align: center;
+	font color: #FF5050;
+}
+
+h2 {
+    font-size:2.5em;
+	text-align: center;
+}
+
+h3 {
+    font-size:1.5em;
+	text-align: center;
+}
+
+h4 {
+	font color: #696969;
+	font-size: small;
+}
+
+h5 {
+	font color: #FF5050;
+}
+
+h6 {
+	font color: #696969;
+	font-size: small;
+
+}
+
+#h7 {
+	font color: #FF5050;
+
+}
+
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+li {
+	float:left;
+
+}
+
+#p1 {
+	font-size: 1em;
+    text-align:	center;
+	}
+
+a:link,a:visited {
+	display:block;
+	width:295px;
+	font-weight:bold;
+	background-color:#FF5050;
+	color: black;
+	text-align:center;
+	padding:8px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+
+a:hover,a:active {
+	background-color:#696969 ;
+}    
